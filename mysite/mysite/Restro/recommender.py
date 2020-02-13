@@ -10,10 +10,10 @@ from time import time
 
 def recommender(request,lucky):
 
-    df = pd.read_csv('C:/Users/Darshan/Documents/GitHub/Django-Resco/mysite/mysite/Restro/data/last_2_years_restaurant_reviews.csv')
-    dfuser = pd.read_csv('C:/Users/Darshan/Documents/GitHub/Django-Resco/mysite/mysite/Restro/data/dfuser1.csv')
+    df = pd.read_csv('Restro/data/last_2_years_restaurant_reviews.csv')
+    dfuser = pd.read_csv('Restro/data/dfuser1.csv')
 
-    df_data=pd.read_csv('C:/Users/Darshan/Documents/GitHub/Django-Resco/mysite/mysite/Restro/data/df_data.csv')
+    df_data=pd.read_csv('Restro/data/df_data.csv')
     unique_users_id = df_data['user_id'].unique()
     user_shape = unique_users_id.shape
     #print('Number of Unique User ID: %d' % user_shape[0])
