@@ -3,7 +3,7 @@
  Authors: [Kewin Shah](https://github.com/kewinshah25), [Girish Savlesha](https://github.com/girishsavlesha), Rohan Kadam.
  
 Steps: 
-1. Kindly download three CSV file from [here](https://drive.google.com/drive/folders/1hFhBNOVsVEZSMGqJezhaqWCb0rtAogtX?usp=sharing)
+1. Kindly download the CSV file from [here](https://drive.google.com/drive/folders/1hFhBNOVsVEZSMGqJezhaqWCb0rtAogtX?usp=sharing)
 and paste it in ..\Restaurant-Recommender-System\mysite\mysite\Restro\data
 2. Now, to run the django file, you need to have anaconda and python installed in your computer.
 3. Go to projet folder 
