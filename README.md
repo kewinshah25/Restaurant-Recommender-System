@@ -32,6 +32,6 @@ with the user asking for preferences which will be used for further activities. 
 data, the system will generate recommendations accordingly.
 
 
-Due to heavy load, we have uploaded the data (CSV) file separately. 
+We have uploaded the data (CSV) file separately. 
 >last_2_years_restaurant_reviews.csv
 
