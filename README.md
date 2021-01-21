@@ -6,7 +6,7 @@ Steps:
 1. Kindly download the CSV file from [here](https://drive.google.com/drive/folders/1hFhBNOVsVEZSMGqJezhaqWCb0rtAogtX?usp=sharing)
 and paste it in ..\Restaurant-Recommender-System\mysite\mysite\Restro\data
 2. Now, to run the django file, you need to have anaconda and python installed in your computer.
-3. Go to projet folder 
+3. Go to project folder 
    > Restaurant-Recommender-System\mysite\mysite\
 4. Open CMD and type python manage.py -runserver
 5. You can open your browser and type the URL (eg. 127.0.0:8000 mentioned in CMD) and you should be able to get the main page for restaurant system.
